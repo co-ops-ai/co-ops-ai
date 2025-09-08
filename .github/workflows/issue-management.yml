@@ -1,0 +1,30 @@
+name: Issue Management
+
+on:
+  issues:
+    types: [opened, labeled]
+
+jobs:
+  welcome:
+    if: github.event.action == 'opened'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Welcome new contributors
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const message = `👋 Thank you for opening this issue! 
+            
+            Our team will review it shortly. In the meantime:
+            - Check our [documentation](https://docs.co-ops.ai)
+            - Join our [Discord community](https://discord.gg/co-ops-ai)
+            - Follow us on [Twitter](https://twitter.com/co_ops_ai)
+            
+            If this is a security issue, please email security@co-ops.ai instead.`
+            
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: message
+            })
