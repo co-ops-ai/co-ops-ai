@@ -4,9 +4,6 @@
 
 **Co-ops.ai** is a modern Kubernetes client featuring an intuitive GUI, integrated AI chat capabilities, and advanced debugging tools. Simplify your Kubernetes workflow with intelligent automation and seamless cluster management.
 
-[![Release](https://img.shields.io/github/v/release/co-ops-ai/co-ops-ai?display_name=tag&sort=semver)](https://github.com/co-ops-ai/co-ops-ai/releases)
-[![Downloads](https://img.shields.io/github/downloads/co-ops-ai/co-ops-ai/total)](https://github.com/co-ops-ai/co-ops-ai/releases)
-
 ---
 
 ## ✨ Features
