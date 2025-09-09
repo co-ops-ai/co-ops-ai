@@ -12,6 +12,7 @@
 |---------|------------|
 | 🖥️ **Modern GUI** | Clean, intuitive interface for Kubernetes cluster management |
 | 🤖 **AI-Powered Chat** | Integrated AI assistant for troubleshooting and guidance |
+| 🔑 **BYOK Support** | Bring Your Own Key for OpenAI - enhanced privacy and control |
 | 🔍 **Smart Debug** | One-click "debug" button automatically identifies and suggests fixes for cluster issues |
 | 🚀 **Multi-Cluster Support** | Manage multiple Kubernetes clusters from a single interface |
 | 📊 **Real-Time Monitoring** | Live cluster metrics, pod status, and resource utilization |
@@ -72,6 +73,8 @@ Integrated AI chat helps you:
 - Explain Kubernetes concepts
 - Provide deployment best practices
 - Answer kubectl command questions
+
+**🔑 BYOK Support**: Bring Your Own Key (BYOK) for OpenAI - use your own OpenAI API key for enhanced privacy and control over your AI interactions.
 ---
 
 ## 🏆 Why Choose Co-ops.ai?
