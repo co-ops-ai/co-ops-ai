@@ -77,15 +77,6 @@ Integrated AI chat helps you:
 - Answer kubectl command questions
 ---
 
-## 📖 Documentation
-
-- [Getting Started Guide](https://docs.co-ops.ai/getting-started)
-- [User Manual](https://docs.co-ops.ai/user-manual)
-- [Troubleshooting](https://docs.co-ops.ai/troubleshooting)
-- [FAQ](https://docs.co-ops.ai/faq)
-
----
-
 ## 🏆 Why Choose Co-ops.ai?
 
 Co-ops.ai stands out from other Kubernetes tools by combining:
@@ -98,7 +89,7 @@ Co-ops.ai stands out from other Kubernetes tools by combining:
 
 ## 💬 Community
 
-- **Discord**: [Join our community](https://discord.gg/co-ops-ai)
+- **Discord**: [Join our community](https://discord.com/invite/jwuEtQczdK)
 - **Email**: support@co-ops.ai
 - **Issues**: [Report bugs or request features](https://github.com/co-ops-ai/co-ops-ai/issues)
 
@@ -117,7 +108,7 @@ For commercial licensing inquiries, contact: licensing@co-ops.ai
 Having issues? We're here to help!
 
 1. Search [existing issues](https://github.com/co-ops-ai/co-ops-ai/issues)
-2. Join our [Discord community](https://discord.gg/co-ops-ai)
+2. Join our [Discord community](https://discord.com/invite/jwuEtQczdK)
 3. Contact support: support@co-ops.ai
 
 ---
