@@ -22,7 +22,9 @@
 
 ## 🎥 Preview
 
-*[You would include screenshots/GIFs of your application here]*
+![Co-ops.ai Kubernetes IDE Demo](assets/images/kubernetes-ide-demo.png)
+
+*Co-ops.ai in action: Managing Kubernetes pods with AI-powered debugging assistance*
 
 ---
 
