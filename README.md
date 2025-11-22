@@ -32,12 +32,12 @@
 
 ### 📦 Direct Download
 
-**Latest Release: [v1.0.0](https://github.com/co-ops-ai/co-ops-ai/releases/latest)**
+**Latest Release: [v1.0.1](https://github.com/co-ops-ai/co-ops-ai/releases/latest)**
 
 | Platform | Download |
 |----------|----------|
-| **macOS** | [Intel](https://github.com/co-ops-ai/co-ops-ai/releases/latest/download/Co-OPS-1.0.0-x64.dmg) • [Apple Silicon](https://github.com/co-ops-ai/co-ops-ai/releases/latest/download/Co-OPS-1.0.0-arm64.dmg) |
-| **Linux** | [deb](https://github.com/co-ops-ai/co-ops-ai/releases/latest/download/co-ops_1.0.0_amd64.deb) |
+| **macOS** | [Intel](https://github.com/co-ops-ai/co-ops-ai/releases/latest/download/Co-OPS-1.0.1-x64.dmg) • [Apple Silicon](https://github.com/co-ops-ai/co-ops-ai/releases/latest/download/Co-OPS-1.0.1-arm64.dmg) |
+| **Linux** | [deb](https://github.com/co-ops-ai/co-ops-ai/releases/latest/download/co-ops_1.0.1_amd64.deb) |
 
 ### 🍺 Package Managers
 
